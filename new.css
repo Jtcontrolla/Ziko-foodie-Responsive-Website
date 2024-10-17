@@ -1,0 +1,71 @@
+.services {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 0px;
+}
+
+.services .section-heading h2 { 
+	color: #fff; 
+}
+
+.service-item {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.service-item .icon {
+	background-color: #f7f7f7;
+	padding: 40px;
+}
+
+.service-item .icon i {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	text-align: center;
+	line-height: 100px;
+	background-color: #f33f3f;
+	color: #fff;
+	font-size: 32px;
+}
+
+.service-item .down-content {
+	background-color: #fff;
+	padding: 40px 30px;
+}
+
+.service-item .down-content h4 {
+	font-size: 17px;
+	color: #1a6692;
+	margin-bottom: 20px;
+}
+
+.service-item .down-content h6 { 
+	margin-bottom: 15px;
+}
+
+.service-item .down-content p {
+	margin-bottom: 25px;
+}
+
+.services-item-image { 
+	display: block; 
+}
+
+.n-m { 
+	margin: 0!important; 
+}
+
+.owl-clients button.owl-dot { 
+	background: #f1f1f1!important; 
+	width: 10px!important; 
+	height: 10px!important; 
+	margin: 0 10px!important; 
+	border-radius: 50%;
+}
+
+.owl-clients button.owl-dot.active { 
+	background: #f33f3f!important; 
+}
